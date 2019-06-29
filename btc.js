@@ -300,7 +300,7 @@ var CoinWidget = function() {
                         }
                     },
                     text: {
-                        primary: 30,
+                        primary: 25,
                         normal: 14,
                         small: 11,
                         powered: 8
